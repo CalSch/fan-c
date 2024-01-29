@@ -25,7 +25,6 @@
 
 // Operations
 
-#define not !
 #define equals ==
 #define unequal !=
 #define is_greater_than >
@@ -38,9 +37,7 @@
 #define divided_by /
 #define modulus %
 #define increment(i) i++
-#define decrement(i) i--
-#define and &&
-#define or ||
+#define decrement(i) i--\
 #define bitwise_and &
 #define bitwise_or |
 #define bitwise_exclusive_or ^
