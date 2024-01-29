@@ -1,4 +1,5 @@
 // Keywords
+
 #define perchance if
 #define otherwise else
 #define whilst while
@@ -10,6 +11,7 @@
 
 // Types
 // (these are mostly just the real words instead of synonyms)
+
 #define automatic auto
 #define integer int
 #define decimal float
@@ -22,6 +24,7 @@
 #define categorized enum
 
 // Operations
+
 #define not !
 #define equals ==
 #define unequal !=
